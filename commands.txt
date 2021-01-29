@@ -1,0 +1,19 @@
+pwd
+ls
+cat
+mkdir
+cd
+touch
+echo :-to write data in file
+git init (initialized a empty repository(to digitalized)
+git add. :(to add all files)
+git log
+git status
+git commit -m:-(message)
+git log --oneline
+git checkout
+git  checkout master
+git config --global
+git user.name
+git config --global user.email
+git --version
